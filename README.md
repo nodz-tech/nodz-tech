@@ -13,9 +13,16 @@
 
 # INTEGRANTES DA TEAM
 
+<h3 align="center">
 Giulian
+  <br>
 Zalts
+  <br>
 Sacolé
+  <br>
 Supraz
+  <br>
 SixRly
+  <br>
 Rooh Mods
+</h3>
