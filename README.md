@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @nodz-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://telegra.ph/file/9c9fbbfb7aeff731ab574.jpg" alt="ayumi" width="300" />
 
-<!---
-nodz-tech/nodz-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
+<h1 align="center">Ayumi Bot</h1>
+
+<h1 align="center">Não esqueça de dar estrelas e seguir :)</h1>
+
+>
+>
+>
+</div>
